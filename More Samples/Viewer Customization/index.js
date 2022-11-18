@@ -39,7 +39,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
         content: {
             /* Location of file where it is hosted */
             location: {
-                url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf",
+                url: "https://s7d3.scene7.com/is/content/AshleyFurniture/2022-AFI-CSR-Report",
                 /*
                 If the file URL requires some additional headers, then it can be passed as follows:-
                 headers: [
